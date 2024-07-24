@@ -1,0 +1,128 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://api.nakala.fr/data/10.34847/nkl.060fr20i",
+    "type": "Manifest",
+    "requiredStatement": {
+        "label": {
+            "en": [
+                "Attribution"
+            ]
+        },
+        "value": {
+            "none": [
+                "Estelle Ingrand-Varenne"
+            ]
+        }
+    },
+    "label": {
+        "none": [
+            "CESCM-CIFM, Jean-Pierre Brouard, John Ottaway (date : 1991) \u00abCIFM 1, pl. V, fig. 8 (2) [NP] et CIFM 1, pl. V, fig. 8 [NP]\u00bb [Image] NAKALA. https://doi.org/10.34847/nkl.060fr20i"
+        ]
+    },
+    "items": [
+        {
+            "id": "https://api.nakala.fr/iiif/10.34847/nkl.060fr20i/Canvas/fc2dbf2c3d7de03d5f0b7a37024b17bc671916aa",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "CIFM 1, pl. V, fig. 8 (2) [NP].jpg"
+                ]
+            },
+            "width": 2764,
+            "height": 1840,
+            "items": [
+                {
+                    "id": "https://api.nakala.fr/iiif/10.34847/nkl.060fr20i/AnnotationPage/fc2dbf2c3d7de03d5f0b7a37024b17bc671916aa",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://api.nakala.fr/iiif/10.34847/nkl.060fr20i/Annotation/fc2dbf2c3d7de03d5f0b7a37024b17bc671916aa",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://api.nakala.fr/iiif/10.34847/nkl.060fr20i/Canvas/fc2dbf2c3d7de03d5f0b7a37024b17bc671916aa",
+                            "body": {
+                                "id": "https://api.nakala.fr/iiif/10.34847/nkl.060fr20i/fc2dbf2c3d7de03d5f0b7a37024b17bc671916aa/full/full/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "width": 2764,
+                                "height": 1840,
+                                "service": [
+                                    {
+                                        "id": "https://api.nakala.fr/iiif/10.34847/nkl.060fr20i/fc2dbf2c3d7de03d5f0b7a37024b17bc671916aa",
+                                        "type": "ImageService3",
+                                        "profile": "level2"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ],
+            "thumbnail": [
+                {
+                    "id": "https://api.nakala.fr/iiif/10.34847/nkl.060fr20i/fc2dbf2c3d7de03d5f0b7a37024b17bc671916aa/full/full/0/default.jpg",
+                    "type": "Image",
+                    "service": [
+                        {
+                            "id": "https://api.nakala.fr/iiif/10.34847/nkl.060fr20i/fc2dbf2c3d7de03d5f0b7a37024b17bc671916aa",
+                            "type": "ImageService3",
+                            "profile": "level2"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://api.nakala.fr/iiif/10.34847/nkl.060fr20i/Canvas/b8fc8992aeb6a2a3b311edad094da14595be5471",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "CIFM 1, pl. V, fig. 8 [NP].jpg"
+                ]
+            },
+            "width": 600,
+            "height": 394,
+            "items": [
+                {
+                    "id": "https://api.nakala.fr/iiif/10.34847/nkl.060fr20i/AnnotationPage/b8fc8992aeb6a2a3b311edad094da14595be5471",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://api.nakala.fr/iiif/10.34847/nkl.060fr20i/Annotation/b8fc8992aeb6a2a3b311edad094da14595be5471",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://api.nakala.fr/iiif/10.34847/nkl.060fr20i/Canvas/b8fc8992aeb6a2a3b311edad094da14595be5471",
+                            "body": {
+                                "id": "https://api.nakala.fr/iiif/10.34847/nkl.060fr20i/b8fc8992aeb6a2a3b311edad094da14595be5471/full/full/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "width": 600,
+                                "height": 394,
+                                "service": [
+                                    {
+                                        "id": "https://api.nakala.fr/iiif/10.34847/nkl.060fr20i/b8fc8992aeb6a2a3b311edad094da14595be5471",
+                                        "type": "ImageService3",
+                                        "profile": "level2"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ],
+            "thumbnail": [
+                {
+                    "id": "https://api.nakala.fr/iiif/10.34847/nkl.060fr20i/b8fc8992aeb6a2a3b311edad094da14595be5471/full/full/0/default.jpg",
+                    "type": "Image",
+                    "service": [
+                        {
+                            "id": "https://api.nakala.fr/iiif/10.34847/nkl.060fr20i/b8fc8992aeb6a2a3b311edad094da14595be5471",
+                            "type": "ImageService3",
+                            "profile": "level2"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
