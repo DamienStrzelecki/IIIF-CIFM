@@ -17,6 +17,8 @@
     "label": {
         "none": [
             "CESCM-CIFM, Jean Michaud (inconnue) «Pl. I, fig. 1» [Image] NAKALA. https://doi.org/10.34847/nkl.6b7b8eto"
+],
+    "created": "inconnue"
         ]
     },
     "items": [
@@ -72,6 +74,4 @@
                 }
             ]
         }
-    ],
-    "created": "inconnue"
 }
