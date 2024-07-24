@@ -1,6 +1,7 @@
-{
+
+                {
     "@context": "http://iiif.io/api/presentation/3/context.json",
-    "id": "https://api.nakala.fr/data/10.34847/nkl.80ed9l9d",
+    "id": "https://api.nakala.fr/data/10.34847/nkl.0938852x",
     "type": "Manifest",
     "requiredStatement": {
         "label": {
@@ -16,39 +17,39 @@
     },
     "label": {
         "none": [
-            "CESCM-CIFM, Jean-Pierre Brouard (date : 2016) \u00abCIFM 1, pl. I, fig. 2 [NP]\u00bb [Image] NAKALA. https://doi.org/10.34847/nkl.80ed9l9d"
+            "CESCM-CIFM, Jean Michaud (date : 1974) \u00abPl. I, fig. 2\u00bb [Image] NAKALA. https://doi.org/10.34847/nkl.0938852x"
         ]
     },
     "items": [
         {
-            "id": "https://api.nakala.fr/iiif/10.34847/nkl.80ed9l9d/Canvas/a47b05393f2b98d4df13ea96f4320f83f04154e1",
+            "id": "https://api.nakala.fr/iiif/10.34847/nkl.0938852x/Canvas/04a38f8fe5cb349d28acde295395a7d6423e6001",
             "type": "Canvas",
             "label": {
                 "none": [
-                    "CIFM 1, pl. I, fig. 2 [NP].tif"
+                    "Pl. I, fig. 2.tif"
                 ]
             },
-            "width": 2731,
-            "height": 1813,
+            "width": 3364,
+            "height": 2500,
             "items": [
                 {
-                    "id": "https://api.nakala.fr/iiif/10.34847/nkl.80ed9l9d/AnnotationPage/a47b05393f2b98d4df13ea96f4320f83f04154e1",
+                    "id": "https://api.nakala.fr/iiif/10.34847/nkl.0938852x/AnnotationPage/04a38f8fe5cb349d28acde295395a7d6423e6001",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://api.nakala.fr/iiif/10.34847/nkl.80ed9l9d/Annotation/a47b05393f2b98d4df13ea96f4320f83f04154e1",
+                            "id": "https://api.nakala.fr/iiif/10.34847/nkl.0938852x/Annotation/04a38f8fe5cb349d28acde295395a7d6423e6001",
                             "type": "Annotation",
                             "motivation": "painting",
-                            "target": "https://api.nakala.fr/iiif/10.34847/nkl.80ed9l9d/Canvas/a47b05393f2b98d4df13ea96f4320f83f04154e1",
+                            "target": "https://api.nakala.fr/iiif/10.34847/nkl.0938852x/Canvas/04a38f8fe5cb349d28acde295395a7d6423e6001",
                             "body": {
-                                "id": "https://api.nakala.fr/iiif/10.34847/nkl.80ed9l9d/a47b05393f2b98d4df13ea96f4320f83f04154e1/full/full/0/default.jpg",
+                                "id": "https://api.nakala.fr/iiif/10.34847/nkl.0938852x/04a38f8fe5cb349d28acde295395a7d6423e6001/full/full/0/default.jpg",
                                 "type": "Image",
                                 "format": "image/jpeg",
-                                "width": 2731,
-                                "height": 1813,
+                                "width": 3364,
+                                "height": 2500,
                                 "service": [
                                     {
-                                        "id": "https://api.nakala.fr/iiif/10.34847/nkl.80ed9l9d/a47b05393f2b98d4df13ea96f4320f83f04154e1",
+                                        "id": "https://api.nakala.fr/iiif/10.34847/nkl.0938852x/04a38f8fe5cb349d28acde295395a7d6423e6001",
                                         "type": "ImageService3",
                                         "profile": "level2"
                                     }
@@ -60,11 +61,11 @@
             ],
             "thumbnail": [
                 {
-                    "id": "https://api.nakala.fr/iiif/10.34847/nkl.80ed9l9d/a47b05393f2b98d4df13ea96f4320f83f04154e1/full/full/0/default.jpg",
+                    "id": "https://api.nakala.fr/iiif/10.34847/nkl.0938852x/04a38f8fe5cb349d28acde295395a7d6423e6001/full/full/0/default.jpg",
                     "type": "Image",
                     "service": [
                         {
-                            "id": "https://api.nakala.fr/iiif/10.34847/nkl.80ed9l9d/a47b05393f2b98d4df13ea96f4320f83f04154e1",
+                            "id": "https://api.nakala.fr/iiif/10.34847/nkl.0938852x/04a38f8fe5cb349d28acde295395a7d6423e6001",
                             "type": "ImageService3",
                             "profile": "level2"
                         }
@@ -74,3 +75,5 @@
         }
     ]
 }
+            
+        
