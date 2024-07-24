@@ -1,0 +1,76 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://api.nakala.fr/data/10.34847/nkl.0ac4045b",
+    "type": "Manifest",
+    "requiredStatement": {
+        "label": {
+            "en": [
+                "Attribution"
+            ]
+        },
+        "value": {
+            "none": [
+                "Estelle Ingrand-Varenne"
+            ]
+        }
+    },
+    "label": {
+        "none": [
+            "CESCM-CIFM, Jean-Pierre Brouard, John Ottaway (date : 1991) \u00abCIFM 1, pl. VII, fig. 10 [NP]\u00bb [Image] NAKALA. https://doi.org/10.34847/nkl.0ac4045b"
+        ]
+    },
+    "items": [
+        {
+            "id": "https://api.nakala.fr/iiif/10.34847/nkl.0ac4045b/Canvas/8d6c1a64384ec2f78e8f33bd8865dd4a3e009836",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "CIFM 1, pl. VII, fig. 10 [NP].jpg"
+                ]
+            },
+            "width": 1836,
+            "height": 2775,
+            "items": [
+                {
+                    "id": "https://api.nakala.fr/iiif/10.34847/nkl.0ac4045b/AnnotationPage/8d6c1a64384ec2f78e8f33bd8865dd4a3e009836",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://api.nakala.fr/iiif/10.34847/nkl.0ac4045b/Annotation/8d6c1a64384ec2f78e8f33bd8865dd4a3e009836",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://api.nakala.fr/iiif/10.34847/nkl.0ac4045b/Canvas/8d6c1a64384ec2f78e8f33bd8865dd4a3e009836",
+                            "body": {
+                                "id": "https://api.nakala.fr/iiif/10.34847/nkl.0ac4045b/8d6c1a64384ec2f78e8f33bd8865dd4a3e009836/full/full/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "width": 1836,
+                                "height": 2775,
+                                "service": [
+                                    {
+                                        "id": "https://api.nakala.fr/iiif/10.34847/nkl.0ac4045b/8d6c1a64384ec2f78e8f33bd8865dd4a3e009836",
+                                        "type": "ImageService3",
+                                        "profile": "level2"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ],
+            "thumbnail": [
+                {
+                    "id": "https://api.nakala.fr/iiif/10.34847/nkl.0ac4045b/8d6c1a64384ec2f78e8f33bd8865dd4a3e009836/full/full/0/default.jpg",
+                    "type": "Image",
+                    "service": [
+                        {
+                            "id": "https://api.nakala.fr/iiif/10.34847/nkl.0ac4045b/8d6c1a64384ec2f78e8f33bd8865dd4a3e009836",
+                            "type": "ImageService3",
+                            "profile": "level2"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
