@@ -1,0 +1,76 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://api.nakala.fr/data/10.34847/nkl.6b7b8eto",
+    "type": "Manifest",
+    "requiredStatement": {
+        "label": {
+            "en": [
+                "Attribution"
+            ]
+        },
+        "value": {
+            "none": [
+                "Estelle Ingrand-Varenne"
+            ]
+        }
+    },
+    "label": {
+        "none": [
+            "CESCM-CIFM, Jean Michaud (inconnue) \u00abPl. I, fig. 1\u00bb [Image] NAKALA. https://doi.org/10.34847/nkl.6b7b8eto"
+        ]
+    },
+    "items": [
+        {
+            "id": "https://api.nakala.fr/iiif/10.34847/nkl.6b7b8eto/Canvas/63b38a478f03daefa0ef2a45945aceeb69a746c2",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "Pl. I, fig. 1.tif"
+                ]
+            },
+            "width": 3300,
+            "height": 2500,
+            "items": [
+                {
+                    "id": "https://api.nakala.fr/iiif/10.34847/nkl.6b7b8eto/AnnotationPage/63b38a478f03daefa0ef2a45945aceeb69a746c2",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://api.nakala.fr/iiif/10.34847/nkl.6b7b8eto/Annotation/63b38a478f03daefa0ef2a45945aceeb69a746c2",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://api.nakala.fr/iiif/10.34847/nkl.6b7b8eto/Canvas/63b38a478f03daefa0ef2a45945aceeb69a746c2",
+                            "body": {
+                                "id": "https://api.nakala.fr/iiif/10.34847/nkl.6b7b8eto/63b38a478f03daefa0ef2a45945aceeb69a746c2/full/full/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "width": 3300,
+                                "height": 2500,
+                                "service": [
+                                    {
+                                        "id": "https://api.nakala.fr/iiif/10.34847/nkl.6b7b8eto/63b38a478f03daefa0ef2a45945aceeb69a746c2",
+                                        "type": "ImageService3",
+                                        "profile": "level2"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ],
+            "thumbnail": [
+                {
+                    "id": "https://api.nakala.fr/iiif/10.34847/nkl.6b7b8eto/63b38a478f03daefa0ef2a45945aceeb69a746c2/full/full/0/default.jpg",
+                    "type": "Image",
+                    "service": [
+                        {
+                            "id": "https://api.nakala.fr/iiif/10.34847/nkl.6b7b8eto/63b38a478f03daefa0ef2a45945aceeb69a746c2",
+                            "type": "ImageService3",
+                            "profile": "level2"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
