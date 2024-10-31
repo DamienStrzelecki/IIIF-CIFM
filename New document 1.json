@@ -1,0 +1,33 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "@id": "https://api.nakala.fr/data/10.34847/nkl.8da7pzj3/6f674836bd1204fdbe5af7e05e5c1a8b2042b409",
+  "type": "Manifest",
+  "label": {
+    "en": ["Titre de la ressource"]
+  },
+  "items": [
+    {
+      "@id": "https://example.org/image1",
+      "type": "Canvas",
+      "label": {
+        "f": ["CESCM-CIFM, Jean Michaud (1975) \u00abPl. LVII, fig. 131-132"]
+      },
+      "width": 1000,
+      "height": 800,
+      "items": [
+        {
+          "@id": "https://api.nakala.fr/data/10.34847/nkl.8da7pzj3/6f674836bd1204fdbe5af7e05e5c1a8b2042b409",
+          "type": "Annotation",
+          "motivation": "painting",
+          "body": {
+            "type": "Image",
+            "id": "https://api.nakala.fr/data/10.34847/nkl.8da7pzj3/6f674836bd1204fdbe5af7e05e5c1a8b2042b409",
+            "format": "image/jpeg",
+            "width": 1000,
+            "height": 800
+          },
+          "target": "https://api.nakala.fr/data/10.34847/nkl.8da7pzj3/6f674836bd1204fdbe5af7e05e5c1a8b2042b409"
+        }
+      ]
+    }
+  ]
