@@ -2,11 +2,11 @@
 	"@context": "http://iiif.io/api/presentation/2/context.json",
 	"@id": "http://2934ec5d-828e-4bd8-850a-bba357c54117",
 	"@type": "sc:Manifest",
-	"label": "CIFM 1, pl. I, fig. 1, Jean Michaud (1974)",
+	"label": "CIFM 1, pl. I, fig. 1",
 	"metadata": [],
 	"description": [
 		{
-			"@value": "CESCM-CIFM 1, pl. I, fig. 1",
+			"@value": "CIFM 1, pl. I, fig. 1",
 			"@language": "fr"
 		}
 	],
@@ -26,7 +26,7 @@
 				{
 					"@id": "http://26218475-e671-4090-8ecd-e2d81527b058",
 					"@type": "sc:Canvas",
-					"label": "CESCM-CIFM 1, pl. I, fig. 1",
+					"label": "CIFM 1, pl. I, fig. 1",
 					"height": 2500,
 					"width": 3300,
 					"images": [
