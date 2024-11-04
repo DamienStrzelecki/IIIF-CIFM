@@ -36,7 +36,7 @@
               "motivation": "sc:painting",
               "resource": {
                 "@type": "dctypes:Image",
-                "@id": "https://api.nakala.fr/embed/10.34847/nkl.6b7b8eto/full/full/0/default.jpg",
+                "@id": "https://api.nakala.fr/10.34847/nkl.6b7b8eto/full/full/0/default.jpg",
                 "format": "image/jpeg",
                 "height": 2000,
                 "width": 3000
