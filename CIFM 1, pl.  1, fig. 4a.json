@@ -44,4 +44,28 @@
 							"@id": "http://482b0334-5e44-4eca-a619-5b3c7a7c819e",
 							"@type": "oa:Annotation",
 							"motivation": "sc:painting",
-							"resource": 
+							"resource": {
+								"@id": "https://api.nakala.fr/iiif/10.34847/nkl.6b7b8eto/63b38a478f03daefa0ef2a45945aceeb69a746c2/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/3/context.json",
+									"@id": "https://api.nakala.fr/iiif/10.34847/nkl.6b7b8eto/63b38a478f03daefa0ef2a45945aceeb69a746c2",
+									"profile": "level2"
+								},
+								"height": 2500,
+								"width": 3300
+							},
+							"on": "http://26218475-e671-4090-8ecd-e2d81527b058"
+						}
+					],
+					"related": ""
+				}
+			]
+		}
+	],
+	"structures": [],
+	"thumbnail": {
+		"@id": "http://26218475-e671-4090-8ecd-e2d81527b058"
+	}
+}
