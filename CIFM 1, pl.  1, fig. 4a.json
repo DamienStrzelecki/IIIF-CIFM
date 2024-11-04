@@ -26,7 +26,7 @@
       "canvases": [
         {
           "@type": "sc:Canvas",
-          "@id": "https://api.nakala.fr/embed/10.34847/nkl.6b7b8eto/full/fullcanvas",
+          "@id": "https://api.nakala.fr/embed/10.34847/nkl.6b7b8eto/canvas",
           "label": "Image de Jean Michaud",
           "height": 2000,
           "width": 3000,
@@ -36,12 +36,12 @@
               "motivation": "sc:painting",
               "resource": {
                 "@type": "dctypes:Image",
-                "@id": "https://api.nakala.fr/10.34847/nkl.6b7b8eto/full/full/0/default.jpg",
+                "@id": "https://api.nakala.fr/iiif/10.34847/nkl.6b7b8eto/full/full/0/default.jpg",
                 "format": "image/jpeg",
                 "height": 2000,
                 "width": 3000
               },
-              "on": "https://api.nakala.fr/embed/10.34847/nkl.6b7b8eto/full/fullcanvas"
+              "on": "https://api.nakala.fr/embed/10.34847/nkl.6b7b8eto/canvas"
             }
           ]
         }
