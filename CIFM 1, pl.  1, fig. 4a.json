@@ -3,23 +3,14 @@
 	"@id": "http://2934ec5d-828e-4bd8-850a-bba357c54117",
 	"@type": "sc:Manifest",
 	"label": "CIFM 1, pl. I, fig. 1",
-	"metadata": [
-		{
-			"label": "Auteur",
-			"value": "Jean Michaud"
-		},
-		{
-			"label": "Date",
-			"value": "1974"
-		}
-	],
+	"metadata": [],
 	"description": [
 		{
 			"@value": "[Click to edit description]",
 			"@language": "fr"
 		}
 	],
-	"license": "Creative Commons Attribution Non Commercial No Derivatives 4.0 International",
+	"license": "Creative Commons Attribution Non Commercial No Derivatives 4.0 International ",
 	"attribution": "Jean Michaud, 1974",
 	"sequences": [
 		{
