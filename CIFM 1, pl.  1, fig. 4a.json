@@ -1,1 +1,62 @@
-{ 	"@context": "http://iiif.io/api/presentation/2/context.json", 	"@id": "http://2934ec5d-828e-4bd8-850a-bba357c54117", 	"@type": "sc:Manifest", 	"label": "CIFM 1, pl. I, fig. 1", 	"metadata": [], 	"description": [ 		{ 			"@value": "[Click to edit description]", 			"@language": "fr" 		} 	], 	"license": "Creative Commons Attribution Non Commercial No Derivatives 4.0 International ", 	"attribution": "Jean Michaud, 1974", 	"sequences": [ 		{ 			"@id": "http://35f56530-297e-428b-a008-da56d4c66183", 			"@type": "sc:Sequence", 			"label": [ 				{ 					"@value": "Normal Sequence", 					"@language": "en" 				} 			], 			"canvases": [ 				{ 					"@id": "http://26218475-e671-4090-8ecd-e2d81527b058", 					"@type": "sc:Canvas", 					"label": "Jean Michaud, 1974", 					"height": 2500, 					"width": 3300, 					"images": [ 						{ 							"@context": "http://iiif.io/api/presentation/2/context.json", 							"@id": "http://482b0334-5e44-4eca-a619-5b3c7a7c819e", 							"@type": "oa:Annotation", 							"motivation": "sc:painting", 							"resource": { 								"@id": "https://api.nakala.fr/iiif/10.34847/nkl.6b7b8eto/63b38a478f03daefa0ef2a45945aceeb69a746c2/full/full/0/default.jpg", 								"@type": "dctypes:Image", 								"format": "image/jpeg", 								"service": { 									"@context": "http://iiif.io/api/image/3/context.json", 									"@id": "https://api.nakala.fr/iiif/10.34847/nkl.6b7b8eto/63b38a478f03daefa0ef2a45945aceeb69a746c2", 									"profile": "level2" 								}, 								"height": 2500, 								"width": 3300 							}, 							"on": "http://26218475-e671-4090-8ecd-e2d81527b058" 						} 					], 					"related": "" 				} 			] 		} 	], 	"structures": [], 	"thumbnail": { 		"@id": "http://26218475-e671-4090-8ecd-e2d81527b058" 	} }
+{
+	"@context": "http://iiif.io/api/presentation/2/context.json",
+	"@id": "http://2934ec5d-828e-4bd8-850a-bba357c54117",
+	"@type": "sc:Manifest",
+	"label": "CIFM 1, pl. I, fig. 1",
+	"metadata": [],
+	"description": [
+		{
+			"@value": "Jean Michaud, 1974",
+			"@language": "fr"
+		}
+	],
+	"license": "Creative Commons Attribution Non Commercial No Derivatives 4.0 International ",
+	"attribution": "Jean Michaud, 1974",
+	"sequences": [
+		{
+			"@id": "http://35f56530-297e-428b-a008-da56d4c66183",
+			"@type": "sc:Sequence",
+			"label": [
+				{
+					"@value": "Normal Sequence",
+					"@language": "en"
+				}
+			],
+			"canvases": [
+				{
+					"@id": "http://26218475-e671-4090-8ecd-e2d81527b058",
+					"@type": "sc:Canvas",
+					"label": "Image",
+					"height": 2500,
+					"width": 3300,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://482b0334-5e44-4eca-a619-5b3c7a7c819e",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://api.nakala.fr/iiif/10.34847/nkl.6b7b8eto/63b38a478f03daefa0ef2a45945aceeb69a746c2/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/3/context.json",
+									"@id": "https://api.nakala.fr/iiif/10.34847/nkl.6b7b8eto/63b38a478f03daefa0ef2a45945aceeb69a746c2",
+									"profile": "level2"
+								},
+								"height": 2500,
+								"width": 3300
+							},
+							"on": "http://26218475-e671-4090-8ecd-e2d81527b058"
+						}
+					],
+					"related": ""
+				}
+			]
+		}
+	],
+	"structures": [],
+	"thumbnail": {
+		"@id": "http://26218475-e671-4090-8ecd-e2d81527b058"
+	}
+}
