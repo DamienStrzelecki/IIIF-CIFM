@@ -2,7 +2,7 @@
 	"@context": "http://iiif.io/api/presentation/2/context.json",
 	"@id": "http://2934ec5d-828e-4bd8-850a-bba357c54117",
 	"@type": "sc:Manifest",
-	"label": "CESCM-CIFM, Jean Michaud (1974), CIFM 1, pl. I, fig. 1",
+	"label": "CESCM-CIFM, Jean Michaud, 1974, CIFM 1, pl. I, fig. 1",
 	"metadata": [],
 	"description": [
 		{
